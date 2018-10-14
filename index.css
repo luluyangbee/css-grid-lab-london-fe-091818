@@ -21,6 +21,7 @@ grid-template-columns: 1fr 1fr 1fr;
   justify-self: center;
 }
 
+
 .grid-item {
   background-color: grey;
   border: 1px solid black;
