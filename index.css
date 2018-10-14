@@ -12,6 +12,13 @@ body {
   grid-template: [header-start] 1fr [header-end] 1fr 1fr 1fr / 1fr 1fr 1fr;
 }
 
+.bigItem {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+
 .grid-item {
   background-color: grey;
   border: 1px solid black;
